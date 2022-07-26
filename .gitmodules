@@ -1,0 +1,3 @@
+[submodule "ffam"]
+	path = ffam
+	url = https://github.com/wareya/ffam.git
